@@ -1,0 +1,16 @@
+# Rust / cargo
+/target/
+**/*.rs.bk
+Cargo.lock.bak
+
+# Local test artifacts
+*.snap
+*.tmp
+/tmp_*
+
+# Editor / OS
+.idea/
+.vscode/
+.DS_Store
+*.swp
+*~
